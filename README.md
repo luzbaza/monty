@@ -48,6 +48,9 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 Monty byte code files can contain blank lines (empty or made of spaces only, and any additional text after the opcode or its required argument is not taken into account:
 
+![casi](https://user-images.githubusercontent.com/71143825/118018341-464ff200-b31d-11eb-8533-9a3b44ea41ea.PNG)
+
+
 
 
 
