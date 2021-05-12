@@ -31,7 +31,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Data structures
 ![Readme](https://user-images.githubusercontent.com/71143825/118015323-c6745880-b319-11eb-994e-a11398815d1b.PNG)
-
+![otro](https://user-images.githubusercontent.com/71143825/118015577-0e937b00-b31a-11eb-9d62-1808345bb237.PNG)
 
 ## Compilation & Output
 * Your code will be compiled this way:
