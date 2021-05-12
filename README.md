@@ -53,7 +53,7 @@ Monty byte code files can contain blank lines (empty or made of spaces only, and
 ## The monty program
 
 * Usage: monty fil
-   1. where file is the path to the file containing Monty byte code
+   ° where file is the path to the file containing Monty byte code
 
 
 
