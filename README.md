@@ -1,3 +1,4 @@
+![principio](https://user-images.githubusercontent.com/71143825/118020411-a9db1f00-b31f-11eb-8078-4530ec5514f6.PNG)
 
 ## **0x19. C - Stacks, Queues - LIFO, FIFO**
 
