@@ -1,3 +1,4 @@
+
 ## 0x19. C - Stacks, Queues - LIFO, FIFO
 
 Learning Objectives
@@ -29,7 +30,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * You are expected to do the tasks in the order shown in the project
 
 ## Data structures
-![This is a alt text.]https://imgur.com/IghKMqz")
+![Readme](https://user-images.githubusercontent.com/71143825/118015323-c6745880-b319-11eb-994e-a11398815d1b.PNG)
 
 
 ## Compilation & Output
