@@ -35,4 +35,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Compilation & Output
 * Your code will be compiled this way:
+![image](https://user-images.githubusercontent.com/71143825/118015841-55817080-b31a-11eb-8d64-8c82e506909b.png)
+
+
 
